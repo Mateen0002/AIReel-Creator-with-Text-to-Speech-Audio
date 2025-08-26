@@ -1,0 +1,8 @@
+file 'college01.jpg'
+duration 3
+file 'file1_.jpg'
+duration 3
+file 'file2.jpg'
+duration 3
+file 'file2.jpg'
+
